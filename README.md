@@ -18,3 +18,8 @@ Currently in development.
 
 ## Vision
 To build a creator-first platform where people can share video content and build real communities.
+## Roadmap
+- Build video feed UI
+- Implement upload system
+- Add user profiles
+- Connect backend API
