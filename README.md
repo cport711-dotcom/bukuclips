@@ -1,20 +1,20 @@
 # BukuClips
 
-BukuClips is a short-form video platform designed to empower creators and give them better monetization opportunities.
+BukuClips is a short-form video platform designed to empower creators and provide better monetization opportunities.
 
 ## Features
 • Vertical video feed  
-• Creator monetization tools  
-• Social engagement  
-• Mobile-first design  
+• Creator profiles  
+• Video uploads  
+• Social engagement tools  
 
-## Technology Stack
+## Tech Stack
 React Native  
 Expo  
 JavaScript  
 
-## Vision
-To build a creator-first platform where people can build audiences and earn from their content.
-
-## Project Status
+## Status
 Currently in development.
+
+## Vision
+To build a creator-first platform where people can share video content and build real communities.
